@@ -6,7 +6,7 @@ use Torskint\AutodetectLang\Dependencies\IpAddressLocaleDetector;
 use Torskint\AutodetectLang\Dependencies\HttpAcceptLanguageHeaderLocaleDetector;
 
 /**
- * Toutes les autres classes en une
+ * Toutes les autres classes en une seule
  */
 class Detector
 {
