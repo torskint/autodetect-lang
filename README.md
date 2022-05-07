@@ -9,8 +9,10 @@ Appelle HttpAcceptLanguageLocales & ensuite IpAddressLocales
 En gros il fourni une liste complete de ces deux fonctions (Sans doublons)
 var_dump( Detector::detect() );
 
-
+## HttpAcceptLanguageLocales
 var_dump( Detector::HttpAcceptLanguageLocales() );
+
+## IpAddressLocales
 var_dump( Detector::IpAddressLocales() );
 
 ```
