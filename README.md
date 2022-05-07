@@ -2,6 +2,7 @@
 
 require 'vendor/autoload.php';
 
+## Appeler les classes nécéssaires grâce à l'autoload
 use Torskint\AutodetectLang\Detector;
 
 ## La fonction detect
