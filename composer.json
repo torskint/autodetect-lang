@@ -1,5 +1,6 @@
 {
     "name": "torskint/autodetect-lang",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Torskint\\AutodetectLang\\Dependencies\\": "src/dependencies/",
