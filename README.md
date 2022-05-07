@@ -7,7 +7,7 @@ use Torskint\AutodetectLang\Detector;
 
 ## La fonction detect
 ## Appelle HttpAcceptLanguageLocales & ensuite IpAddressLocales
-## En gros il fourni une liste complete de ces deux fonctions (Sans doublons)
+## En gros il fourni une liste complete des résultats de ces deux fonctions ( Sans doublons )
 var_dump( Detector::detect() );
 
 ## HttpAcceptLanguageLocales
